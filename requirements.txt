@@ -1,0 +1,4 @@
+PyGObject~=3.42.1
+Pillow~=9.2.0
+numpy~=1.23.0
+asyncio-glib~=0.1
